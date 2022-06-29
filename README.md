@@ -2,7 +2,7 @@
 
 My name is Jurjen de Jong.
 
-- 🔭✨ I’m currently a PhD candidate in astronomy.
+- 🔭✨ I’m currently a PhD candidate at Leiden Observatory.
 - 👯 I’m looking for someone to collaborate to make a satellite data pipeline to extract information and make predictions
 - 📫 jurjendejong93(AT)gmail.com
 
