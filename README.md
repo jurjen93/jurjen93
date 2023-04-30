@@ -6,4 +6,4 @@ My name is Jurjen de Jong.
 - 👨‍💻 In my previous life, I have been employed as a data scientist and machine learning engineer.
 - 🛰️ Interested to learn more about working with satellite data (making pipelines from open data and applying image recognition).
 - 📫 jurjong(AT)proton.me
-- 🖥️ jurjen93.github.io
+- 🖥️ [My website](https://jurjen93.github.io)
